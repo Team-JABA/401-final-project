@@ -1,107 +1,176 @@
-# 401-final-project  
+# Testing-Intelligence-Machine-TIM
 
-### Final Prep #1
+<div id="top"></div>
 
-## Cooperation Plan
-Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
+[![LinkedIn][linkedin-shieldalex]][linkedin-urlalex]
+[![GitHub][github-shieldalex]][github-urlalex]
+<br />
+[![LinkedIn][linkedin-shieldanthony]][linkedin-urlanthony]
+[![GitHub][github-shieldanthony]][github-urlanthony]
+<br />
+[![LinkedIn][linkedin-shieldbryce]][linkedin-urlbryce]
+[![GitHub][github-shieldbryce]][github-urlbryce]
+<br />
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
+<br />
+[![LinkedIn][linkedin-shieldvalton]][linkedin-urlvalton]
+[![GitHub][github-shieldvalton]][github-urlvalton]
 
-<br>  
-Describe at least:
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-- What are the key strengths of each person on the team?
-- How can you best utilize these strengths in the execution of your project?
-- In which professional competencies do you each want to develop greater strength?
-- Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+<!-- ABOUT THE PROJECT -->
 
-<br>
+## About The Project
 
-    NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.
-<br>  
+-> Fill in information about our Project here as we go.
 
-## Conflict Plan  
+Problem Domain:
 
-Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
-<br>  
-Describe at least:
+- `Insert our Problem Domain when we lock in our project idea`
 
-- What will be your group’s process to resolve conflict, when it arises?
-- What will your team do if one person is taking over the project and not letting the other members contribute?
-- How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
-- How will you raise concerns to members who are not adequately contributing?
-- How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+Project Management Board:
 
-<br>  
+`(Trello Board Here UML Here)`
 
-##  Communication Plan  
+UML-ver1:
 
-Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.
+`(UML Version 2 here)`
 
-<br>
+<br />
 
-Describe at least:
+UML-ver2:
 
-- What hours will you be available to communicate?
-- What platforms will you use to communicate (ie. Slack, phone …)?
-- How often will you take breaks?
-- What is your plan if you start to fall behind?
-- How will you communicate after hours and on the weekend?
-- What is your strategy for ensuring everyone’s voice is heard?
-- How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?  
+`(UML Version 2 here)`
 
-<br>  
+<br />
 
-## Work Plan  
-<br>  
-Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.
+UML-ver3:
 
-<br> 
+`(UML Version 3 here)`
 
-    NOTE: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
+<br />
 
-<br>  
+Schema-UML:
 
-Describe at least:
+`(Schema UML Here)`
 
-- How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
-- What project management tool will be used?
+<br />
 
-<br>  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Git Process  
+## Project Dependencies
 
-Plan out what your team’s Git workflow looks like for coding tasks.
+### Prerequisites
 
-Describe at least:
+This is an example of how to list things you need to use the software and how to install them.
 
-- What components of your project will live on GitHub?
-- How will you share the repository with your teammates?
-- What is your Git flow?
-- Will you be using a PR review workflow? If so, consider:
-  - How many people must review a PR?
-  - Who merges PRs?
-  - How often will you merge?
-  - How will you communicate that it’s time to merge?  
+### Installation
 
-<br>  
+- `Add Node Files Dependecies List`
 
-<!-- ## Final Prep #2  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-<br> 
+## Usage
 
-### Project Idea A
+`Insert how to use our App here as we go`
 
-1. Summary of idea.
-2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
-3. Minimum Viable Product (MVP) definition.
-   - What is the minimum required for you to present on your demo day?  
+- [Discord](https://discord.com)
 
-   <br>  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Project Idea B
+<!-- CONTRIBUTING -->
 
-1. Summary of idea.
-2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
-3. Minimum Viable Product (MVP) definition.
-   - What is the minimum required for you to present on your demo day?    -->  
+## Contributing
 
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Anthony Morton - AnthonyMorton760@gmail.com  
+Bryce Pfingston - bryce.pfingston@gmail.com  
+Jacob Gregor - jake_gregor@icloud.com  
+Valton Jones - jones.trae@gmail.com  
+Alex Grazda - agrazda@gmail.com
+
+Project Link: [GitHub](https://github.com/Team-JABA/401-final-project)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+Code Fellows, friends, and family
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/JacobGregor-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/jacob-l-gregor
+[github-shield]: https://img.shields.io/badge/JacobGregor-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
+[github-url]: https://github.com/JacobGregor
+[product-screenshot]: Anthony
+[linkedin-shieldanthony]: https://img.shields.io/badge/AnthonyMorton-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-urlanthony]: https://www.linkedin.com/in/anthony-louis-morton/
+[github-shieldanthony]: https://img.shields.io/badge/AnthonyMorton-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
+[github-urlanthony]: https://github.com/anthonylouismorton
+[product-screenshot]: Bryce
+[linkedin-shieldbryce]: https://img.shields.io/badge/BrycePfingston-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-urlbryce]: https://www.linkedin.com/in/bryce-pfingston/
+[github-shieldbryce]: https://img.shields.io/badge/BrycePfingston-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
+[github-urlbryce]: https://github.com/bpfingston
+[product-screenshot]: Valton
+[linkedin-shieldvalton]: https://img.shields.io/badge/ValtonJones-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-urlvalton]: https://www.linkedin.com/in/valton-jones-77482536/
+[github-shieldvalton]: https://img.shields.io/badge/ValtonJones-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
+[github-urlvalton]: https://github.com/jones-trae
+[product-screenshot]: images/screenshot.png
+[product-screenshot]: Alex
+[linkedin-shieldalex]: https://img.shields.io/badge/AlexGrazda-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-urlalex]: https://www.linkedin.com/in/alex-grazda/
+[github-shieldalex]: https://img.shields.io/badge/AlexGrazda-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
+[github-urlalex]: https://github.com/agrazda
+[product-screenshot]: images/screenshot.png
